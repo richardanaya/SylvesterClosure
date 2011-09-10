@@ -1,4 +1,4 @@
-This is a rewrite of the sylvester closure vector and matrix library, I've only done two things to the code:
+This is a rewrite of the sylvester vector and matrix library ( http://sylvester.jcoglan.com/ ), I've only done two things to the code:
 
 - seperated out classes into logical files
 - added code annotations used by the Google Closure compiler for javascript optimzations.
