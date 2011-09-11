@@ -1,0 +1,8 @@
+A rewrite of sylvester vector and matrix math library (http://sylvester.jcoglan.com/) using google closure compiler annotations for javascript optimizations.
+
+To run tests
+
+cd bin
+./compile.sh
+./run_server.sh
+browse http://localhost:9999/tests/index.html
